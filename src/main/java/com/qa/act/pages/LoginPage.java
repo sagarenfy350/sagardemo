@@ -25,6 +25,7 @@ public class LoginPage extends TestBase {
 	  username.sendKeys(user);
 	  password.sendKeys(pass);
 	  login.click();
+	  System.out.println("Hello we are gitERssss");
 	  return new HomePage();
   }
   public void validateSettings() {
