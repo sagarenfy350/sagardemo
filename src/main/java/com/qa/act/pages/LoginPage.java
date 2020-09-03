@@ -25,7 +25,6 @@ public class LoginPage extends TestBase {
 	  username.sendKeys(user);
 	  password.sendKeys(pass);
 	  login.click();
-	  System.out.println("Logged in");
 	  return new HomePage();
   }
   public void validateSettings() {
