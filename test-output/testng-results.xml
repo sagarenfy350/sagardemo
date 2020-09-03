@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45901" started-at="2020-09-01T15:26:07 IST" finished-at="2020-09-01T15:26:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45901" started-at="2020-09-01T15:26:07 IST" finished-at="2020-09-01T15:26:52 IST">
+      <class name="com.qa.act.tests.TimeTrackTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.act.tests.TimeTrackTest@66d1af89]" name="setUp" is-config="true" duration-ms="15812" started-at="2020-09-01T15:26:07 IST" finished-at="2020-09-01T15:26:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateTimeTrackTest()[pri:0, instance:com.qa.act.tests.TimeTrackTest@66d1af89]" name="validateTimeTrackTest" duration-ms="28822" started-at="2020-09-01T15:26:22 IST" finished-at="2020-09-01T15:26:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTimeTrackTest -->
+        <test-method status="PASS" signature="endUp()[pri:0, instance:com.qa.act.tests.TimeTrackTest@66d1af89]" name="endUp" is-config="true" duration-ms="1161" started-at="2020-09-01T15:26:51 IST" finished-at="2020-09-01T15:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+      </class> <!-- com.qa.act.tests.TimeTrackTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

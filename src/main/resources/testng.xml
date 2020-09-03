@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ActiTime" >
+<test name="Act Time">
+   <classes>
+       <class name="com.qa.act.tests.LoginPageTest"></class>
+       <class name="com.qa.act.tests.HomePageTest"></class>
+       <class name="com.qa.act.tests.AddNewUserTest"></class>
+       <class name="com.qa.act.tests.TimeTrackTest"></class>
+   </classes>
+</test>
+</suite>
